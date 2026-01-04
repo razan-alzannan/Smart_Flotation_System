@@ -1,0 +1,14 @@
+streamlit
+torch
+torchvision
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-image
+opencv-python
+Pillow
+altair
+tqdm
+shapely
